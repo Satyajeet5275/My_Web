@@ -1,0 +1,24 @@
+/* --------------------- Tag Selector ---------------------*/
+body
+{
+    background-color: #EAFFD0;
+    
+}
+hr{
+   
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #95E1D3;
+    width:5%;
+
+}
+/* --------------------- Class Selector ---------------------*/
+.profile{
+   block-size: 200px;
+   border: #95E1D3;
+   border-style: solid;
+   border-radius: 140px;
+}
+
+/* --------------------- ID Selector ---------------------*/
