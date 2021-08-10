@@ -1,7 +1,7 @@
 /* --------------------- Tag Selector ---------------------*/
 body
 {
-    background-color: #EAFFD0;
+    background-color: #F3F2C9;
     
 }
 hr{
@@ -9,16 +9,25 @@ hr{
     border-style: none;
     border-top-style: dotted;
     border-width: 8px;
-    border-color: #95E1D3;
+    border-color: #055052;
     width:5%;
 
+}
+h3{
+    color: #055052;
 }
 /* --------------------- Class Selector ---------------------*/
 .profile{
    block-size: 200px;
-   border: #95E1D3;
+   border: #003638;
    border-style: solid;
    border-radius: 140px;
 }
+.text{
+    color: #53B8BB;
+}
 
 /* --------------------- ID Selector ---------------------*/
+#nm{
+        color: #003638;
+}
